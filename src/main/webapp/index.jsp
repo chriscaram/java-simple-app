@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Java Simple Application</title>
+		<title>Java Simple Application on OpenShift</title>
 	</head>
 	<body>
 		<h1>Hello friends!</h1>
