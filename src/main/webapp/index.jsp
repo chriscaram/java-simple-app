@@ -8,6 +8,8 @@
 	<body>
         <h1 style="text-align: center">Hello friends!</h1>
         
+
+        
 		<h2 style="color: blue">Current time is <%= LocalDateTime.now() %></h2>
 	</body>
 </html>
