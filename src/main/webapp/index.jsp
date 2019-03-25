@@ -6,7 +6,8 @@
 		<title>Java Simple Application on OpenShift</title>
 	</head>
 	<body>
-		<h1>Hello friends!</h1>
-		<h2>Current time is <%= LocalDateTime.now() %></h2>
+        <h1 style="text-align: center">Hello friends!</h1>
+        
+		<h2 style="color: blue">Current time is <%= LocalDateTime.now() %></h2>
 	</body>
 </html>
